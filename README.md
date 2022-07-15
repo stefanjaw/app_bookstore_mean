@@ -7,3 +7,5 @@ FrontEnd is Angular
 Backend Node.js with Express
 
 Database MongoDB
+
+Reference: https://youtu.be/68bGQaokSdY 
